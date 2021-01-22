@@ -1,0 +1,26 @@
+*{margin: 0;padding: 0; box-sizing: border-box;}
+
+h1{
+  background-color: aqua;
+}
+.topnav img{
+
+padding-left:500px;
+  padding-top:25px;
+}
+.content1 img{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+.content2{
+  text-align: center;
+}
+.content3{
+  text-align: center;
+}
+.content4{
+  text-align: center;
+}
